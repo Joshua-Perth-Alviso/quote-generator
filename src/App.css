@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.heading h1, p{
+  margin: 0;
+  padding: 0;
+}
+
+.quote-box h3, p{
+  margin: 10px;
+  padding: 0;
+}
+
+.quote-box button{
+  margin-top: 30px;
+}
+
+.quote-box{
+  margin: 50px;
+  padding: 50px;
+  border: solid white;
+  border-width: 1px;
+  border-radius: 8px;
+}
